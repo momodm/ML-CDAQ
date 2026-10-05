@@ -1,0 +1,14 @@
+# Local dependencies and generated artifacts
+.runtime/
+.venv/
+__pycache__/
+*.py[cod]
+frontend/node_modules/
+frontend/dist/
+data/
+outputs/
+.playwright-mcp/
+.openviking/
+.env
+.env.*
+*.log
